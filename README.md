@@ -1,6 +1,4 @@
 # Climats
-
-# Costs 2023
  
  <H1>Previsão de clima</H1>
  
