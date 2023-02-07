@@ -20,5 +20,7 @@
 <hr>
 
 <h2>To do:</h2>
--[ ] Implementar tratamento de erros
--[ ] Criar componente de loading
+ <ul>
+ <li>Implementar tratamento de erros</li>
+ <li>Criar componente de loading</li>
+</ul>
